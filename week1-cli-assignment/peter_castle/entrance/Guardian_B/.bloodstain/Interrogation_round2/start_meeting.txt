@@ -1,0 +1,26 @@
+
+Round 2 of Interrogations
+
+Guardian A:
+"I think Guardian B might be innocent. He seemed genuinely concerned."
+"The Chef had access to all areas. He knows the security system too well."
+
+Guardian B:
+"I was just worried about the jade's safety, that's all."
+"I saw the Chef near the exhibit late at night. Why was he there?"
+
+The Chef:
+"Accusing me? Ridiculous! I've devoted my life to this castle!"
+"The House Keeper knows every nook and cranny here. She could hide anything."
+
+The Waitress:
+"The Chef and the House Keeper were arguing about something last week."
+"Guardian B might be innocent. He seemed too scared to be guilty."
+
+The House Keeper:
+"The Chef often stays late. Said he's working, but doing what?"
+"I saw the Chef with a strange bag the day after the theft."
+
+The Driver:
+"The Chef once asked me about the jade's value on the black market."
+"Guardian B is just a scapegoat. I don't think he did it."
