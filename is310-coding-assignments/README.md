@@ -4,8 +4,6 @@
 
 \. NetID: zihaoc9
 
-\. UIN: 668552051
-
 \. Year: Junior
 
 
